@@ -1,0 +1,19 @@
+name: com.10101software.commons
+displayName: 10101 Software Commons
+description: A collection of helpful classes and functions by 10101 Software.
+repoUrl: 'https://github.com/tbg10101/10101-Software-Unity-Commons'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - utilities
+hunter: tbg10101
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1656029318920
