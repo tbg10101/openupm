@@ -1,0 +1,19 @@
+name: com.10101software.unitsofmeasure
+displayName: Units of Measure
+description: Units of measure library for Unity.
+repoUrl: 'https://github.com/tbg10101/UnityUnitsOfMeasure'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - utilities
+hunter: tbg10101
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1656029014576
